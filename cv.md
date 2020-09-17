@@ -59,4 +59,10 @@ sets)
     - basic concepts of automated testing with Selenium IDE, locators, XPath locators,
 areas of automation
 
+Languages
+----------
+* English – Intermediate
+* German – Basic 
+* Belarusian - Native
+* Russian - Native
 
