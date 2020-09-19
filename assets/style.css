@@ -1,0 +1,14 @@
+element.style {
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+style {
+    display: none;
+}
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
